@@ -1,1 +1,1 @@
-![Imgur](https://gitlab.com/chongyi0717/lab6/-/blob/master/lab6.pdf)
+(https://gitlab.com/chongyi0717/lab6/-/blob/master/lab6.pdf)
